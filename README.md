@@ -11,4 +11,5 @@ I'm **Raul**, Product Manager at 360dialog GmbH, grinding Rust & LLMs, feel free
 <br>
 
 Чѳц $нѳцгд Єпjѳч Tнё Гїттгё Дётѳця$ Tѳ Tнё Fцггё$т Бёcац$ё Tнат$ Шнёяё 
+
 Чѳцгг Fїпд Tнё Tнїпg$ Ѫѳяё Їѫpѳятапт Tнап Шнат Чѳц Шапт
