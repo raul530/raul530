@@ -4,9 +4,7 @@
 
 I'm **Raul**, Product Manager grinding Rust & LLMs, feel free to help me with my journey by following me in social media!
 
-<br>
-
 - Twitter: [@raulfalks](https://twitter.com/raulfalks)
 - Instagram: [@raulfalks](https://instagram.com/raulfalks)
 
-
+<br>
