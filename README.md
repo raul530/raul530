@@ -2,7 +2,7 @@
 
 ### wagwan, 
 
-I'm **Raul**, Product Manager at 360dialog GmbH, grinding Rust & LLMs, feel free to help me with my journey by reaching me in social media:
+I'm **Raul**, Product Manager at 360dialog GmbH, grinding Rust, LLMs & Concept Engineering, feel free to help me with my journey by reaching me in social media:
 
 - Twitter: [@raulfalks](https://twitter.com/raulfalks)
 - Instagram: [@raulfalks](https://instagram.com/raulfalks)
