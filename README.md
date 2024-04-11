@@ -10,4 +10,4 @@ I'm **Raul**, Product Manager at 360dialog GmbH, grinding Rust & LLMs, feel free
 
 <br>
 
-Чѳц $нѳцгд Єпjѳч Tнё Гїттгё Дётѳця$ Tѳ Tнё Fцггё$t
+Вам должны понравиться небольшие обходные пути. В полной мере.
