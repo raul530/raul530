@@ -13,9 +13,11 @@ I'm **Raul**, Product Manager at 360dialog GmbH, grinding Rust, LLMs & Concept E
 "Вам должны понравиться небольшие обходные пути. В полной мере."
 
 ```txt
-From: 09 April 2024 - To: 13 April 2024 (updated daily) 
+My personal goal is study 14h of the main topics of the week
 
-Total Time: 9 hrs 36 mins
+From: 09 April 2024 - To: 13 April 2024 (updated daily - reseted weekly) 
+
+Total Time: 24 hrs 00 mins
 
 JavaScript    8 hrs 03 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   57.14 %
 Git           5 hrs 17 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.90 %
