@@ -15,9 +15,9 @@ I'm **Raul**, Product Manager at 360dialog GmbH, grinding Rust, LLMs & Concept E
 ```txt
 My personal goal is study 60h of the main topics ( * ) of the month
 
-From: 09 April 2024 - To: 14 April 2024 (updated daily - reseted monthly 
+From: 09 April 2024 - To: 14 April 2024 (updated daily - reseted monthly)
 
-Total Time: 25 hrs 00 mins
+Total Time: 30 hrs 00 mins
 
 * Rust          0 hrs 0 mins    ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀      
 * LLM           7 hrs 30 mins   ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
