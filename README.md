@@ -1,4 +1,3 @@
-<img align="left" src="https://cdn.discordapp.com/attachments/742720523150032947/1227798862291271700/nerv-logo-vector_1.png?ex=6629b7cc&is=661742cc&hm=75df83f99c3d886d22330051fd849c4aac79f9fd202b23c540564760e0af9f57&">
 
 ### wagwan, 
 
