@@ -4,8 +4,6 @@
 </a>
 
 <h3><i><b>人生は単純だ、選択をして後ろは振り返らない</b></i></h3>
-<h4><i>Life's simple, you make choices and you don't look back</i></h4>
-
 <p>grinding machine learning and other AI algorithms for fun, feel free to help me by reaching me in social media</p>
 
 <a href="https://twitter.com/raulfalks">
