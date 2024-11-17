@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos.fandom.com%2Fwiki%2FKanye_West&psig=AOvVaw2NrVfVhlwxnJXD0_y6CK9w&ust=1731899606399000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiByPCz4okDFQAAAAAdAAAAABAE">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos.fandom.com%2Fwiki%2FKanye_West&psig=AOvVaw2NrVfVhlwxnJXD0_y6CK9w&ust=1731899606399000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiByPCz4okDFQAAAAAdAAAAABAE" width="400" height="320" alt="Profile Banner">
+<a href="https://static.wikia.nocookie.net/logopedia/images/e/e8/DropoutBear.svg/revision/latest/scale-to-width-down/250?cb=20240115192643">
+  <img src="https://static.wikia.nocookie.net/logopedia/images/e/e8/DropoutBear.svg/revision/latest/scale-to-width-down/250?cb=20240115192643" width="400" height="320" alt="Profile Banner">
 </a>
 
 <h3>wagwan,</h3>
