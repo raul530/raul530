@@ -9,7 +9,7 @@
 <p>learning AI & stuff, feel free to help me with my journey by reaching me in social media:</p>
 
 <a href="https://twitter.com/raulfalks">
-  <img src="https://img.shields.io/badge/@raulfalks-%23E0A04F?style=for-the-badge&logo=twitter&logoColor=white&color=9F3443"/>
+  <img src="https://img.shields.io/badge/@raulfalks-%23E0A04F?style=for-the-badge&logo=twitter&logoColor=%23E0A04F&color=9F3443"/>
 </a>
 
 </div>
