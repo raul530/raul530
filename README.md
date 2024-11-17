@@ -6,7 +6,7 @@
 
 <h3>wagwan,</h3>
 
-<p>learning AI & stuff, feel free to help me with my journey by reaching me in social media:</p>
+<p>grinding Machine Learning and AI for fun, feel free to help me with my journey by reaching me in social media:</p>
 
 <a href="https://twitter.com/raulfalks">
   <img src="https://img.shields.io/badge/@raulfalks-9F3443?style=for-the-badge&logo=twitter"/>
