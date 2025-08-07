@@ -7,6 +7,6 @@
 <p>all my repos are private, sorry</p>
 
 <a href="https://raul.cafe">
-  <img src="https://img.shields.io/badge/@raulfalks-9F3443?style=for-the-badge&logo=twitter"/>
+  <img src="https://img.shields.io/badge/website-9F3443?style=for-the-badge&logo=twitter"/>
 </a>
 </div>
