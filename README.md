@@ -4,7 +4,7 @@
 </a>
 
 <h3><i><b>「人生は単純だ、選択をして後ろは振り返らない」</b></i></h3>
-<p>grinding machine learning and other AI algorithms for fun</p>
+<p>all my repos are private, sorry</p>
 
 <a href="https://twitter.com/raulfalks">
   <img src="https://img.shields.io/badge/@raulfalks-9F3443?style=for-the-badge&logo=twitter"/>
