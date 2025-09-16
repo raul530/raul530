@@ -4,7 +4,7 @@
 </a>
 
 <h3><i><b>「人生は単純だ、選択をして後ろは振り返らない」</b></i></h3>
-<p>all my repos are private, sorry</p>
+<p>most my repos are private, sorry</p>
 
 <a href="https://raul.cafe">
   <img src="https://img.shields.io/badge/website-9F3443?style=for-the-badge&logo=twitter"/>
